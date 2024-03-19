@@ -1,5 +1,5 @@
 # neural-network-challenge-1
->## Background
+## The Challenge
 >You work at a company that specializes in student loan refinancing. If the
 >company can predict whether a borrower will repay their loan, it can provide a
 >more accurate interest rate for the borrower. Your team has asked you to create
@@ -17,7 +17,7 @@
 >Download the following files to help you get started: Module 18 Challenge files
 >(https://static.bc-edx.com/ai/ail-v-1-0/m18/lms/starter/M18_Starter_Code.zip)
 >
->## Before You Begin
+## Getting Started
 >Before starting the Challenge, be sure to complete the following steps:
 >-  Create a new repository for this project called neural-network-challenge-1.
 >   Do not add this Challenge assignment to an existing repository.
